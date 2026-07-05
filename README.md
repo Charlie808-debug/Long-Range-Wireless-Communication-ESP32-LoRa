@@ -16,7 +16,21 @@ This project was developed as part of the **Embedded Design Laboratory**. It dem
 The system supports real-time message exchange, acknowledgement (ACK) handling, RSSI monitoring, OLED feedback, and a web-based messaging interface.
 
 ---
+## 📑 Contents
 
+- [Project Overview](#-project-overview)
+- [Key Features](#-key-features)
+- [Hardware Components](#-hardware-components)
+- [Hardware Setup](#-hardware-setup)
+- [Circuit Diagram](#-circuit-diagram)
+- [Web Interface](#-web-interface)
+- [Repository Structure](#-repository-structure)
+- [Applications](#-applications)
+- [Documentation](#-documentation)
+- [Future Improvements](#-future-improvements)
+- [Contributors](#-contributors)
+
+---
 ## ✨ Key Features
 
 - 📡 Bidirectional LoRa communication
@@ -97,5 +111,23 @@ The complete project report is available in the **report/** folder.
 **Dhruvi Rakeshkumar Singh**
 
 Pandit Deendayal Energy University (PDEU)
-
 Electronics & Communication Engineering
+
+---
+## 🚀 Future Improvements
+
+- End-to-end AES encryption
+- Multi-node LoRa mesh networking
+- GPS integration
+- Battery-powered portable deployment
+- Mobile application support
+- LoRaWAN cloud connectivity
+
+---
+
+## 👥 Contributors
+
+- **Dhruvi Rakeshkumar Singh**
+- **Preet D. Desai**
+
+Developed as part of the **Embedded Design Laboratory** at **Pandit Deendayal Energy University (PDEU)**.
