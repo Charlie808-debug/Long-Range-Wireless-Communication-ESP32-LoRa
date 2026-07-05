@@ -1,5 +1,10 @@
 # 📡 Long-Range Wireless Communication System using ESP32 & LoRa
-
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-red?style=for-the-badge&logo=espressif)
+![LoRa](https://img.shields.io/badge/LoRa-SX1278-blue?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino)
+![C++](https://img.shields.io/badge/Embedded-C++-00599C?style=for-the-badge&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-Web%20UI-E34F26?style=for-the-badge&logo=html5)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 A real-time bidirectional long-range wireless communication system built using **ESP32** and **SX1278 LoRa (433 MHz)** modules. The project enables offline communication between two embedded nodes through a lightweight web interface and OLED display.
 
 ---
