@@ -5,6 +5,7 @@
 ![C++](https://img.shields.io/badge/Embedded-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![HTML](https://img.shields.io/badge/HTML-Web%20UI-E34F26?style=for-the-badge&logo=html5)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 A real-time bidirectional long-range wireless communication system built using **ESP32** and **SX1278 LoRa (433 MHz)** modules. The project enables offline communication between two embedded nodes through a lightweight web interface and OLED display.
 
 ---
